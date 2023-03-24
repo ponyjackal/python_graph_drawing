@@ -24,7 +24,7 @@ Saving:
         cairosvg.svg2png(bytestring=svg_input.read(), write_to=png_output)
     shutil.rmtree(tmpdir)
     
-    I saved canvas a svg file first and then convert svg file to png file using cairosvg.svg2png.
-    And it worked well.
+I saved canvas a svg file first and then convert svg file to png file using cairosvg.svg2png.
+And it worked well.
     
-  Thanks.
+Thanks.
